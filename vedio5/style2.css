@@ -1,0 +1,7 @@
+table{
+    background-color: bisque;
+    color: rgb(104, 152, 104);
+}
+th,td{
+    border: 4px solid black;
+}
